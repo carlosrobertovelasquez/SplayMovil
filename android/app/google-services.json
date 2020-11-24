@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665609040430",
+    "firebase_url": "https://splay7-8f0b9.firebaseio.com",
+    "project_id": "splay7-8f0b9",
+    "storage_bucket": "splay7-8f0b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665609040430:android:77e3deefe9c762edb1e5bf",
+        "android_client_info": {
+          "package_name": "com.splayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665609040430-g65or3lc2rvrmltag2tnfqnjmle5fa41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-BwXB2eC1XFDxR7RRET-8NbUiHnbYyc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665609040430-g65or3lc2rvrmltag2tnfqnjmle5fa41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "665609040430-k79ed8hdteqv6hnr5gg83e2kdn4pd9jq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.splayapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
